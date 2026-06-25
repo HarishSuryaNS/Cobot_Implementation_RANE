@@ -1,5 +1,5 @@
 # RANE-Project
-# 🤖 RANE AI Vision Project
+# 🦾 RANE AI Vision Project
 
 An AI-powered robotic vision system for collaborative robots (Cobots) using Intel RealSense depth cameras, Computer Vision, and ROS 2.
 
