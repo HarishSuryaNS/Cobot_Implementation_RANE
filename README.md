@@ -1,4 +1,4 @@
-# 🦾 RANE AI Vision Project
+# 🦾 RANE Cobot Project
 
 An AI-powered robotic vision system for collaborative robots (Cobots) using the Orbbec Gemini 336L depth camera, Computer Vision, and ROS 2.
 
